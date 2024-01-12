@@ -1,0 +1,44 @@
+.head{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
+.sec{
+    width: 800px;    
+    padding: 30px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    
+    
+}
+.sec img{
+    width:800px;
+    height: 300px;
+}
+.head2{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+.sec2{
+    padding: 20px;
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.sec2 img{
+    width: 800px;
+    height: 300px;
+}
+.sec3{
+    margin-left: 800px;
+    margin-top: -550px;
+    position: absolute;
+}
